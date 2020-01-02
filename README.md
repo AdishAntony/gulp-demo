@@ -3,7 +3,7 @@ gulp demo app
 
 ------------------------------------------------------
 
-GRUNT-The JavaScript Task Runner
+GULP-The JavaScript Task Runner
 
 This app is to show how gulp can be used to minifying a js file when a file change occurs.
 
